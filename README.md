@@ -1,0 +1,62 @@
+
+### **Aries Lunch**
+
+* **Language:** Swift
+* **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, SVProgressHUD
+* **Description:** This application allows you to order food online and you can also use the delivery option.It is possible to make group orders.When ordering you can pay online.
+* **App Store:** https://itunes.apple.com/us/app/aries-lunch/id1344837785?ls=1&mt=8
+
+<img src="https://user-images.githubusercontent.com/4967822/47015518-3c15e900-d15e-11e8-9c0a-edcb1750035f.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47015517-3b7d5280-d15e-11e8-8a47-509cbd2c23dc.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47015516-3b7d5280-d15e-11e8-9b8d-bbbc80c6875c.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47015515-3b7d5280-d15e-11e8-87b3-cf7a13ac8a46.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47015514-3b7d5280-d15e-11e8-9ce9-c75ae35d7288.PNG" width="171">
+
+***
+
+### **Marukame**
+* **Associated with:** 
+* **Language:** Swift
+* **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, SVProgressHUD
+* **Description:** Test
+* **App Store:** https://itunes.apple.com/us/app/marukame/id1346477472?ls=1&mt=8
+
+<img src="https://user-images.githubusercontent.com/4967822/47016800-b98f2880-d161-11e8-90d2-504dde7cdd97.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016801-ba27bf00-d161-11e8-9292-02694bdd9878.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016802-ba27bf00-d161-11e8-9faf-38cb678ce7d7.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016803-ba27bf00-d161-11e8-90de-aa970dc76722.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016804-ba27bf00-d161-11e8-8d90-68751ca898c9.PNG" width="171">
+
+***
+
+### **CityBugs**
+* **Associated with:** 
+* **Language:** Swift
+* **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift
+* **Description:** Test
+* **App Store:** https://itunes.apple.com/us/app/citybugs/id1227195932?ls=1&mt=8
+
+<img src="https://user-images.githubusercontent.com/4967822/47017487-6e761500-d163-11e8-91a8-c5892b756528.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017488-6e761500-d163-11e8-9089-47bdd69fe3c1.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017489-6e761500-d163-11e8-9f84-8f5a3adec50d.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017490-6e761500-d163-11e8-8f34-d72458ddb778.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017492-6f0eab80-d163-11e8-81f8-9abfc45dc301.PNG" width="171">
+
+
+***
+
+### **WinFreedom**
+* **Associated with:** 
+* **Language:** Swift
+* **Used tools:** AVFoundation, Core Data, Alamofire, AlamofireImage, SVProgressHUD
+* **Description:** Test
+
+<img src="https://user-images.githubusercontent.com/4967822/47018016-ceb98680-d164-11e8-97ce-2e385b3cc7b8.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018015-ceb98680-d164-11e8-87e7-cdf13832e9b0.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018017-ceb98680-d164-11e8-8d8f-47bb160f58c5.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018018-cf521d00-d164-11e8-9f00-370330ffce10.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018019-cf521d00-d164-11e8-94de-7fa7c9259285.PNG" width="171">
+
+***
+
+### **Yocanna**
+* **Associated with:** 
+* **Language:** Swift
+* **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, UberRides, LyftSDK, SVProgressHUD
+* **Description:** Test
+
+<img src="https://user-images.githubusercontent.com/4967822/47018319-95354b00-d165-11e8-8fb2-644d9244bad7.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018321-95354b00-d165-11e8-8ca4-de0206708850.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018322-95354b00-d165-11e8-84d8-20f63979cc08.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018323-95cde180-d165-11e8-9dd3-dfcb8dd5f662.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018324-95cde180-d165-11e8-8a1e-c8b6fbc1902e.PNG" width="171"> 
+
+***
+
+### **Protocoler**
+* **Associated with:** 
+* **Language:** Swift
+* **Used tools:** AVFoundation, SCRecorder, WatchKit, Fabric
+* **Description:** Test
+
+<img src="https://user-images.githubusercontent.com/4967822/47018572-0f65cf80-d166-11e8-9cb0-bf4c010e535d.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018574-0f65cf80-d166-11e8-81c4-592c57bb5e2e.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018577-0f65cf80-d166-11e8-934e-a2e768bb13e9.PNG" width="171">
