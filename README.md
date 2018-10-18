@@ -61,6 +61,6 @@
 ### **Protocoler**
 * **Language:** Swift
 * **Used tools:** AVFoundation, SCRecorder, WatchKit, Fabric
-* **Description:** Audio Recorder
+* **Description:** This application is for audio recording. You can save, edit the audio and also trim, cut.
 
 <img src="https://user-images.githubusercontent.com/4967822/47018572-0f65cf80-d166-11e8-9cb0-bf4c010e535d.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018574-0f65cf80-d166-11e8-81c4-592c57bb5e2e.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018577-0f65cf80-d166-11e8-934e-a2e768bb13e9.PNG" width="171">
