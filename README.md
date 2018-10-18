@@ -22,7 +22,7 @@
 
 ### **CityBugs**
 * **Language:** Swift
-* **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift
+* **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Core Data
 * **Description:** CityBugs.am is a social platform developed to raise socially critical issues.
 * **App Store:** https://itunes.apple.com/us/app/citybugs/id1227195932?ls=1&mt=8
 
