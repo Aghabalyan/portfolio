@@ -34,7 +34,7 @@
 ### **WinFreedom**
 * **Language:** Swift
 * **Used tools:** AVFoundation, Core Data, Alamofire, AlamofireImage, SVProgressHUD
-* **Description:** This app is available only for adult smokers, who are citizens of the Republic of Armenia. 
+* **Description:** This application is available only for adult smokers, who are citizens of the Republic of Armenia. Player will have a chance to complete different challenges, which will allow him/her to get points and receive real gifts.
 
 <img src="https://user-images.githubusercontent.com/4967822/47018016-ceb98680-d164-11e8-97ce-2e385b3cc7b8.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018015-ceb98680-d164-11e8-87e7-cdf13832e9b0.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018017-ceb98680-d164-11e8-8d8f-47bb160f58c5.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018018-cf521d00-d164-11e8-9f00-370330ffce10.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018019-cf521d00-d164-11e8-94de-7fa7c9259285.PNG" width="171">
 
