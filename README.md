@@ -41,7 +41,6 @@
 ***
 
 ### **Yocanna**
-* **Associated with:** 
 * **Language:** Swift
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, UberRides, LyftSDK, SVProgressHUD
 * **Description:** This application allows customers to order Cannabis for health purposes.This application is available only in countries that have legalized medical use of cannabis.
@@ -60,7 +59,6 @@
 ***
 
 ### **Protocoler**
-* **Associated with:** 
 * **Language:** Swift
 * **Used tools:** AVFoundation, SCRecorder, WatchKit, Fabric
 * **Description:** Audio Recorder
