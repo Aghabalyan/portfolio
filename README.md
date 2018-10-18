@@ -45,7 +45,7 @@
 
 ### **Yocanna**
 * **Associated with:** 
-* **Language:** This application allows customers to order Cannabis for health purposes.This application is available only in legalized countries.
+* **Language:** This application allows customers to order Cannabis for health purposes.This application is available only in countries that have legalized medical use of cannabis.
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, UberRides, LyftSDK, SVProgressHUD
 * **Description:** Test
 
