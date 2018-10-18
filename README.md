@@ -42,9 +42,9 @@
 
 ### **Yocanna**
 * **Associated with:** 
-* **Language:** This application allows customers to order Cannabis for health purposes.This application is available only in countries that have legalized medical use of cannabis.
+* **Language:** Swift
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, UberRides, LyftSDK, SVProgressHUD
-* **Description:** Test
+* **Description:** This application allows customers to order Cannabis for health purposes.This application is available only in countries that have legalized medical use of cannabis.
 
 <img src="https://user-images.githubusercontent.com/4967822/47018319-95354b00-d165-11e8-8fb2-644d9244bad7.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018321-95354b00-d165-11e8-8ca4-de0206708850.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018322-95354b00-d165-11e8-84d8-20f63979cc08.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018323-95cde180-d165-11e8-9dd3-dfcb8dd5f662.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018324-95cde180-d165-11e8-8a1e-c8b6fbc1902e.PNG" width="171"> 
 
