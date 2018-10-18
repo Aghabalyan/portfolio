@@ -14,7 +14,7 @@
 * **Associated with:** 
 * **Language:** Swift
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, SVProgressHUD
-* **Description:** Test
+* **Description:** This application allows Marukame Restaurant clients earn bonus points from their purchases and receive free order with that bonus points.
 * **App Store:** https://itunes.apple.com/us/app/marukame/id1346477472?ls=1&mt=8
 
 <img src="https://user-images.githubusercontent.com/4967822/47016800-b98f2880-d161-11e8-90d2-504dde7cdd97.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016801-ba27bf00-d161-11e8-9292-02694bdd9878.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016802-ba27bf00-d161-11e8-9faf-38cb678ce7d7.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016803-ba27bf00-d161-11e8-90de-aa970dc76722.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47016804-ba27bf00-d161-11e8-8d90-68751ca898c9.PNG" width="171">
@@ -45,7 +45,7 @@
 
 ### **Yocanna**
 * **Associated with:** 
-* **Language:** Swift
+* **Language:** This application allows customers to order Cannabis for health purposes.(Only in authorized countries)
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, UberRides, LyftSDK, SVProgressHUD
 * **Description:** Test
 
