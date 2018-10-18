@@ -11,7 +11,6 @@
 ***
 
 ### **Marukame**
-* **Associated with:** 
 * **Language:** Swift
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Fabric, Firebase, SVProgressHUD
 * **Description:** This application allows Marukame Restaurant clients earn bonus points from their purchases and receive free order with that bonus points.
@@ -22,7 +21,6 @@
 ***
 
 ### **CityBugs**
-* **Associated with:** 
 * **Language:** Swift
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift
 * **Description:** Test
@@ -34,7 +32,6 @@
 ***
 
 ### **WinFreedom**
-* **Associated with:** 
 * **Language:** Swift
 * **Used tools:** AVFoundation, Core Data, Alamofire, AlamofireImage, SVProgressHUD
 * **Description:** Test
@@ -66,6 +63,6 @@
 * **Associated with:** 
 * **Language:** Swift
 * **Used tools:** AVFoundation, SCRecorder, WatchKit, Fabric
-* **Description:** Test
+* **Description:** Audio Recorder
 
 <img src="https://user-images.githubusercontent.com/4967822/47018572-0f65cf80-d166-11e8-9cb0-bf4c010e535d.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018574-0f65cf80-d166-11e8-81c4-592c57bb5e2e.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47018577-0f65cf80-d166-11e8-934e-a2e768bb13e9.PNG" width="171">
