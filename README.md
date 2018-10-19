@@ -23,7 +23,7 @@
 ### **CityBugs**
 * **Language:** Swift
 * **Used tools:** GoogleMaps, Alamofire, AlamofireImage, AlamofireObjectMapper, IQKeyboardManagerSwift, Core Data
-* **Description:** CityBugs.am is a social platform developed to raise socially critical issues.
+* **Description:** CityBugs is a social platform developed to raise socially critical issues.
 * **App Store:** https://itunes.apple.com/us/app/citybugs/id1227195932?ls=1&mt=8
 
 <img src="https://user-images.githubusercontent.com/4967822/47017487-6e761500-d163-11e8-91a8-c5892b756528.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017488-6e761500-d163-11e8-9089-47bdd69fe3c1.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017489-6e761500-d163-11e8-9f84-8f5a3adec50d.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017490-6e761500-d163-11e8-8f34-d72458ddb778.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/47017492-6f0eab80-d163-11e8-81f8-9abfc45dc301.PNG" width="171">
