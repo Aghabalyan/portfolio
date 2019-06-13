@@ -26,7 +26,7 @@
 * **Description:** CityBugs is a social platform developed to raise socially critical issues.
 * **App Store:** https://itunes.apple.com/us/app/citybugs/id1227195932?ls=1&mt=8
 
-<img src="https://user-images.githubusercontent.com/4967822/59431391-e2051a80-8df5-11e9-842e-8bb59af988c8.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431403-e9c4bf00-8df5-11e9-8a5c-06706119f00e.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431411-edf0dc80-8df5-11e9-8bda-f5f7274a7fd9.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431418-f34e2700-8df5-11e9-9c76-a32b14a3d94c.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431428-fb0dcb80-8df5-11e9-903e-dd1201597367.PNG" width="171">
+<img src="https://user-images.githubusercontent.com/4967822/59431391-e2051a80-8df5-11e9-842e-8bb59af988c8.PNG" width="150"> <img src="https://user-images.githubusercontent.com/4967822/59431403-e9c4bf00-8df5-11e9-8a5c-06706119f00e.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431411-edf0dc80-8df5-11e9-8bda-f5f7274a7fd9.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431418-f34e2700-8df5-11e9-9c76-a32b14a3d94c.PNG" width="171"> <img src="https://user-images.githubusercontent.com/4967822/59431428-fb0dcb80-8df5-11e9-903e-dd1201597367.PNG" width="171">
 
 ***
 
