@@ -36,7 +36,7 @@
 * **Description:** .
 * **App Store:** https://itunes.apple.com/us/app/citybugs/id1227195932?ls=1&mt=8
 
-<img src="https://user-images.githubusercontent.com/4967822/59431391-e2051a80-8df5-11e9-842e-8bb59af988c8.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59431403-e9c4bf00-8df5-11e9-8a5c-06706119f00e.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59431411-edf0dc80-8df5-11e9-8bda-f5f7274a7fd9.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59431418-f34e2700-8df5-11e9-9c76-a32b14a3d94c.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59431428-fb0dcb80-8df5-11e9-903e-dd1201597367.PNG" width="165">
+<img src="https://user-images.githubusercontent.com/4967822/59433164-fe0abb00-8df9-11e9-8313-a08e9c41ce67.png" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59433115-e0d5ec80-8df9-11e9-95b1-dacd6366cfa0.png" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59433180-06fb8c80-8dfa-11e9-8b48-6d385c3437e8.png" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59433220-17136c00-8dfa-11e9-82a9-264f684d5ff7.png" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59433232-1d094d00-8dfa-11e9-89d3-44bfdb633904.png" width="165">
 
 ***
 
