@@ -35,7 +35,7 @@
 * **Used tools:** IQKeyboardManagerSwift, AXPhotoViewer, RealmSwift
 * **Description:** .
 
-<img src="https://user-images.githubusercontent.com/4967822/59433164-fe0abb00-8df9-11e9-8313-a08e9c41ce67.png" width="300"> <img src="https://user-images.githubusercontent.com/4967822/59433115-e0d5ec80-8df9-11e9-95b1-dacd6366cfa0.png" width="300"> <img src="https://user-images.githubusercontent.com/4967822/59433180-06fb8c80-8dfa-11e9-8b48-6d385c3437e8.png" width="300"> <img src="https://user-images.githubusercontent.com/4967822/59433220-17136c00-8dfa-11e9-82a9-264f684d5ff7.png" width="300"> <img src="https://user-images.githubusercontent.com/4967822/59433232-1d094d00-8dfa-11e9-89d3-44bfdb633904.png" width="300">
+<img src="https://user-images.githubusercontent.com/4967822/59433164-fe0abb00-8df9-11e9-8313-a08e9c41ce67.png" width="600"> <img src="https://user-images.githubusercontent.com/4967822/59433115-e0d5ec80-8df9-11e9-95b1-dacd6366cfa0.png" width="600"> <img src="https://user-images.githubusercontent.com/4967822/59433180-06fb8c80-8dfa-11e9-8b48-6d385c3437e8.png" width="600"> <img src="https://user-images.githubusercontent.com/4967822/59433220-17136c00-8dfa-11e9-82a9-264f684d5ff7.png" width="600"> <img src="https://user-images.githubusercontent.com/4967822/59433232-1d094d00-8dfa-11e9-89d3-44bfdb633904.png" width="600">
 
 ***
 
