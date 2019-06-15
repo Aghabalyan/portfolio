@@ -32,7 +32,7 @@
 
 ### **Bundles**
 * **Language:** Objective-C 
-* **Used tools:** IQKeyboardManagerSwift, Realm
+* **Used tools:** IQKeyboardManagerSwift, Realm, Charts
 * **Description:** .
 
 <img src="https://user-images.githubusercontent.com/4967822/59550099-ea855e80-8f77-11e9-9fab-16bb3eea34e8.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59550100-ef4a1280-8f77-11e9-8c20-98a6ecdb04d6.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59550102-f3763000-8f77-11e9-8368-f1e90985f6ea.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59550103-f5d88a00-8f77-11e9-9573-07e9fb14197d.PNG" width="165"> <img src="https://user-images.githubusercontent.com/4967822/59550108-fffa8880-8f77-11e9-9447-7ba1605b88f5.PNG" width="165">
